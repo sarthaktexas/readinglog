@@ -66,4 +66,99 @@
     <td class="tg-9gth">370-464</td>
     <td class="tg-9gth">3/29/20</td>
   </tr>
+  <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">3/30/20</td>
+  </tr>
+  <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">3/31/20</td>
+  </tr>
+    <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/1/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/2/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/3/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/4/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/5/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/6/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/7/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/8/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/9/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/10/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/11/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/12/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/13/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/14/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/15/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/16/20</td>
+  </tr>
+      <tr>
+    <td class="tg-9gth">A Tale of Two Cities</td>
+    <td class="tg-9gth">Ebook so no clue</td>
+    <td class="tg-9gth">4/17/20</td>
+  </tr>
 </table>
